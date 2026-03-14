@@ -1,4 +1,3 @@
-# month-one-assessment
 TechCorp AWS Terraform Infrastructure
 Project Overview
 This project deploys a highly available and secure web application infrastructure on AWS using Terraform.
